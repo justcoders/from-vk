@@ -27,7 +27,7 @@ https://oauth.vk.com/authorize?client_id=6043737&display=page&redirect_uri=https
 &scope=friends,photos,offline&response_type=token&v=5.52 G
 ```
 
-Число 6043737 в запиті це API_ID нашеого додатку в системі VK.
+Число 6043737 в запиті це API_ID нашого додатку в системі VK.
 
 Нажміте Enter. Відкриєтся вікно з запитом прав. В ньому відображається назва додатку, іконки
 прав доступу, і Ваші імя з прізвищем.
